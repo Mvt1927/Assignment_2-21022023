@@ -1,0 +1,6 @@
+Type: in-patient
+Number of days spent in the hospital: 5
+The daily rate : 500
+Hospital medication charges : 1000
+Charges for hospital services (lab tests, etc.) : 1000
+Total Charges : 4500

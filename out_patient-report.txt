@@ -1,0 +1,4 @@
+Type: out-patient
+Hospital medication charges : 1000
+Charges for hospital services (lab tests, etc.) : 1000
+Total Charges : 2000
